@@ -78,6 +78,13 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
   --footer-background-color: #000;
 }
 ```
+## 📱 Alterações feitas por mim [victorrf](https://github.com/victorrf/):
+
+- Criação da pasta "script" e o arquivo "main.js" e colocado o script que estava no html dentro dele;
+- CSS criação de 3 arquivos, "reset" aonde está os estilos genericos e as fontes;
+- "main" aonde encontra todos o restante do CSS original;
+- E o "responsive" aonde coloquei a responsividade que ajeitei do projeto.
+
 ## 🔗 Links auxiliares
 
 - [W3C - World Wide Web Consortium](http://w3c.org)

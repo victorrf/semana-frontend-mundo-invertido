@@ -1,0 +1,122 @@
+@media screen and (max-width: 820px) {
+  #section-inverted-world,
+  #section-stranger-things-trailer, 
+  #section-stranger-things-gallery {
+    width: 95%;
+    gap: 5px;
+  }
+
+  #section-form {
+    width: 90%;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-size: 2.5rem;
+  }
+
+  label {
+    font-size: 0.8rem;
+  }
+
+  footer p {
+    max-width: 300px;
+  }
+
+}
+
+@media screen and (max-width: 480px) {
+  #section-inverted-world,
+  #section-stranger-things-trailer, 
+  #section-stranger-things-gallery,
+  #section-form .form-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  } 
+
+  #section-inverted-world .section-texts,
+  #section-stranger-things-trailer .section-texts,
+  #section-stranger-things-gallery .container h2,
+  #section-form .form-content h3 {
+    text-align: center;
+  }
+
+  iframe {
+    width: 400px;
+    height: 200px;
+  }
+
+  #section-stranger-things-gallery .container h2 {
+    width: 500px;
+  }
+
+  #section-stranger-things-gallery .gallery-container {
+    padding-left: 0px;
+  }
+
+  #section-form h2 {
+    width: 550px;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-size: 2rem;
+  }
+
+  footer::before, footer::after {
+    width: 200px;
+    height: 100px;
+  }
+
+  footer::after {
+    right: -60px;
+  }
+
+}
+
+@media screen and (max-width: 430px) {
+  iframe {
+    width: 340px;
+    height: 185px;
+  }
+
+  #section-stranger-things-gallery .container h2 {
+    width: 400px;
+  }
+
+  #section-form h2 {
+    width: 400px;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  footer::after {
+    right: -70px;
+  }
+
+}
+
+@media screen and (max-width: 395px) {
+  iframe {
+    width: 280px;
+    height: 170px;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-size: 1rem;
+  }
+
+  footer::after {
+    right: -80px;
+  }
+
+}
