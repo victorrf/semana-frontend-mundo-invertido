@@ -4,6 +4,7 @@
   #section-stranger-things-gallery {
     width: 95%;
     gap: 5px;
+    overflow: hidden;
   }
 
   #section-form {
