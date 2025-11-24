@@ -84,6 +84,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - CSS criação de 3 arquivos, "reset" aonde está os estilos genericos e as fontes;
 - "main" aonde encontra todos o restante do CSS original;
 - E o "responsive" aonde coloquei a responsividade que ajeitei do projeto.
+- Firebase configurado, env.js dentro do gitignore para não vaza a apiKey do Banco de dados.
 
 ## 🔗 Links auxiliares
 
