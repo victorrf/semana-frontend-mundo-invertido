@@ -1,5 +1,5 @@
 // js/main.js
-import { subscribeToHellfireClube } from "./data/hellfire-clube.js";
+// import { subscribeToHellfireClube } from "./data/hellfire-clube.js";
 
 function main() {
   const txtName = document.getElementById("txtName");
