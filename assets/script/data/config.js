@@ -10,5 +10,7 @@ const firebaseConfig = {
   appId: ENV.FIREBASE_APP_ID,
 };
 
+console.log("ENV dentro do config:", ENV);
+
 const app = initializeApp(firebaseConfig);
 export default app;

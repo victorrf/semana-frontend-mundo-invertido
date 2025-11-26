@@ -60,7 +60,7 @@ window.addEventListener('click', function() {
   audio.volume = 0.2;
 })
 
-function switchTheme() {
+document.getElementById('switch-theme-button').addEventListener("click", function switchTheme() { 
   document.body.classList.toggle('dark-theme');
   document.body.classList.toggle('light-theme');
 
@@ -71,5 +71,4 @@ function switchTheme() {
   audio.src = `assets/musics/${music}`;
   audio.play();
   audio.volume = 0.2;
-}
-
+})

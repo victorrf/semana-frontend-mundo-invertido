@@ -3,15 +3,26 @@
 </p>
 
 -------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+Bem-vindo ao Mundo Invertido, um projeto desenvolvido durante a Semana Frontend da DIO, onde foi recriado uma landing page interativa inspirada no universo de Stranger Things.
 
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
+O objetivo foi praticar conceitos essenciais de HTML, CSS e JavaScript, além de explorar animações, temas dinâmicos e manipulação de DOM.
+
+
 ## 💻 Tecnologias
 - HTML
 - CSS
 - JavaScript
+
+## 📸 Prévia
+### Versão para **Mobile** e **Tablet**
+![exemplo1.1](assets/images/samples/Exemplo2.1.png)
+![exemplo1.2](assets/images/samples/Exemplo2.2.png)
+
+### Versão para **Desktop**
+![exemplo2.1](assets/images/samples/Exemplo1.1.png)
+![exemplo2.2](assets/images/samples/mundo-invertido01.gif)
+![exemplo3.1](assets/images/samples/Exemplo1.2.png)
+![exemplo3.2](assets/images/samples/mundo-invertido02.gif)
 
 ## 💬 Assuntos abordados
 - HTML
@@ -84,32 +95,12 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - CSS criação de 3 arquivos, "reset" aonde está os estilos genericos e as fontes;
 - "main" aonde encontra todos o restante do CSS original;
 - E o "responsive" aonde coloquei a responsividade que ajeitei do projeto.
-- Firebase configurado, env.js dentro do gitignore para não vaza a apiKey do Banco de dados.
+- Firebase configurado, env.js dentro do gitignore para não vazar a apiKey do Banco de dados.
 
-## 🔗 Links auxiliares
 
-- [W3C - World Wide Web Consortium](http://w3c.org)
-- [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
-## 🌎 Nossas redes sociais
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?v=4"/>
-    <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
-    &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
-    </p>
-</p>
+## ▶️ Execute o projeto
+### 👉 https://victorrf.github.io/semana-frontend-mundo-invertido/
+
+## 📄 Licença
+
+Este projeto é apenas para fins educacionais e não possui licença oficial.

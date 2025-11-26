@@ -8,12 +8,17 @@ import {
 import app from "./config.js";
 
 export async function subscribeToHellfireClube(subscriber) {
+  console.log("🔥 Enviando dados ao Firestore:", subscriber);
+
   try {
     const db = getFirestore(app);
+    console.log("📌 Firestore DB carregado:", db);
 
-    const hellfireClubCollection = collection(db, "hellfire-clube");
+    const hellfireClubCollection = collection(db, "hellfire-club");
+    console.log("📁 Collection pronta:", hellfireClubCollection);
 
     const docRef = await addDoc(hellfireClubCollection, subscriber);
+    console.log("✔ Documento criado no Firestore. ID:", docRef.id);
 
     return docRef.id;
 
